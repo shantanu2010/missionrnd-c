@@ -1,0 +1,11 @@
+char* addNumberStrings(char*, char*);
+void removeSymbol(char*);
+int length(char*);
+int DetermineGretestNumber(char* , char*, int, int, int, int);
+char* add(char*, char*, int, int, bool);
+char* subtraction(char*, char*, int, int, int, int, bool);
+bool checkLengthSign(char*, char*);
+void reverse(char*);
+void stripingZeros(char*);
+int reverseNumber(int);
+void stringCopy(char*, char*);
